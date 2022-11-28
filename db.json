@@ -16,7 +16,7 @@
         "img": "https://i.pinimg.com/564x/22/46/16/224616c012ab448ed00363074237fb18.jpg",
         "desc": "Shelter B06-32 is an underground shelter in the demon world built by William Minerva. The shelter is comprised of a Security Room, Kitchen, Pantry, Library, Garden, Dining Area, Bathroom, and Secret room. The shelter pulls water from an underground well, generates power from a combination of geothermal energy and organic waste, and has a separate generator powered by fuel if resources were to deplete. The composition of this shelter allows the children to be self-sustainable for a couple of years before they must leave.\nThe shelter was destroyed when a group of unknown soldiers ambushed it, forcing the children to leave.",
         "facilities": "The Shelter B06-32 secret room is a hidden room located in Shelter B06-32. It houses the telephone that plays a recording from William Minerva.",
-        "Layout": ""
+        "Layout": "-"
     },
     {
         "id": 3,
@@ -25,7 +25,7 @@
         "img": "https://i.pinimg.com/564x/3f/53/c0/3f53c0e5ebb112ba9a055bf81af34a4d.jpg",
         "desc": "Lambda 7214 is an special research facility for experimenting on human children from various different farms. The demons and human scientists working at the facility execute repeated painful and horrific experiments on the children living there. The facility was created in order to try to create higher quality human livestock in a faster and more efficient way than the Premium Farms. However, as a result of the forced drugging and experiments done at Lambda, many children there started to experience abnormal development, side effects, and irregular growth in their muscles, senses, and nervous system. The facility was destroyed after Norman led some other kids being held there in an uprising and escaped the place. It is the farm that Norman was sent to after being shipped from Grace Field.",
         "facilities": "Lambda 7214 is a very large facility filled with many different rooms and locations for all sorts of different purposes.\nMost children are kept in small rooms, tanks, or even cages. There are some rooms that are colorful and filled with toys and stuffed animals for children to play with, while in other rooms children are eaten alive by demons.",
-        "Layout": ""
+        "Layout": "-"
     },
     {
         "id": 4,
@@ -33,8 +33,8 @@
         "loca": "The Demon World",
         "img": "https://i.imgur.com/5CalTT3.png",
         "desc": "The Demon World is the main setting of The Promised Neverland. The Demon World is part of the world that many years ago, was split into two between humans and demons after The Promise was signed. The part of the world belonging to the demons is comprised of many bizarre ecosystems and creatures, some of which include feral/bestial demons.\nThis is where all of the Premium Farms and Factory Farms are located.",
-        "facilities": "",
-        "Layout": ""
+        "facilities": "-",
+        "Layout": "-"
     },
     {
         "id": 5,
@@ -42,8 +42,8 @@
         "loca": "Human World",
         "img": "https://i.pinimg.com/564x/19/cd/f4/19cdf47a6aff04b9fa67e359d891b6b6.jpg",
         "desc": "The Demon World is the main setting of The Promised Neverland. The Demon World is part of the world that many years ago, was split into two between humans and demons after The Promise was signed. The part of the world belonging to the demons is comprised of many bizarre ecosystems and creatures, some of which include feral/bestial demons.\nThis is where all of the Premium Farms and Factory Farms are located.",
-        "facilities": "",
-        "Layout": ""
+        "facilities": "-",
+        "Layout": "-"
     }
 ]
 }
